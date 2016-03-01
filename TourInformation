@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Hind' rel='stylesheet' type='text/css'>
+  </head>
+  
+  <body>
+    <h1>A Taste of St Andrews</h1>
+    <h2>St Andrews Food Tour</h2>
+    <ul>
+      <li><a href="#">Tour Information</a></li>
+      <li><a href="#">Price List</a></li>
+      <li><a href="#">History of St Andrews Dining</a></li>
+      <li><a href="#">About Me</a></li> 
+      <li><a href="#">Contact Details</a></li>
+  </body>
+ </html>
